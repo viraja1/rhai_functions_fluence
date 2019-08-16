@@ -7,7 +7,7 @@ Rhai is an embedded scripting language for Rust (https://github.com/jonathandtur
 ![](screenshots/rhai_functions_fluence.png)
 
 ### App URL
-http://rhai-functions.surge.sh/ (Fluence App 400)
+http://rhai-functions.surge.sh/ (Fluence App 402)
 
 ### Examples
 
