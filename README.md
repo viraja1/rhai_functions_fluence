@@ -1,6 +1,6 @@
 ## Rhai Functions for Fluence
 
-Rhai is an embedded scripting language for Rust (https://github.com/jonathandturner/rhai)
+Rhai is an embedded scripting language for Rust (https://github.com/jonathandturner/rhai). Rhai Functions for Fluence allows you to execute Rhai functions and statements. The function can be defined in one call and it's results can be fetched from another call.
 
 
 ### Screenshots
